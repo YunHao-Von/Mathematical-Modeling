@@ -1,0 +1,13 @@
+import numpy as np
+a=np.array([2,4,8,20,16,30])
+b=np.array(((1,2,3,4,5),(6,7,8,9,10),(10,9,1,2,3),(4,5,6,8,9.0)))
+print(a)
+print(b)
+print(a[[2,3,5]])
+print(a[[-1,-2,-3]])
+print(b[1,2])
+print(b[2])
+print(b[2,:])
+print(b[:,1])
+print(b[[2,3],1:4])
+print(b[1:3,1:3])

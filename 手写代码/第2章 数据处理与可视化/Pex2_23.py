@@ -1,0 +1,10 @@
+import numpy as np
+a=np.arange(6).reshape(2,3)
+np.save("Pdata2_23_1.npy",a)
+b=np.load("Pdata2_23_1.npy")
+c=np.arange(6,12).reshape(2,3)
+d=np.sin(c)
+np.savez("Pdata2_23_2.npz",c,d)
+e=np.load("Pdata2_23_2.npz")
+print(e["arr_0"])
+print(e["arr_1"])

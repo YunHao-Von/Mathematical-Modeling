@@ -1,0 +1,11 @@
+import numpy as np
+a=np.arange(4,dtype=float)
+b=np.arange(0,10,2,dtype=int)
+c=np.empty((2,3),int)
+d=np.linspace(-1,2,5)
+e=np.random.randint(0,3,(2,3))
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)

@@ -1,0 +1,370 @@
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 10:20:45
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 10:24:38
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 10:31:34
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:02:40
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:03:57
+
+Optimize a model with 16 rows, 12 columns and 36 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 8e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+02]
+Presolve removed 16 rows and 12 columns
+Presolve time: 0.12s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.5000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.23 seconds
+Optimal objective  5.500000000e+03
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:07:30
+
+Optimize a model with 16 rows, 12 columns and 36 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 8e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+02]
+Presolve removed 16 rows and 12 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.5000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  5.500000000e+03
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:07:37
+
+Optimize a model with 16 rows, 12 columns and 36 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 8e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+02]
+Presolve removed 16 rows and 12 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.5000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  5.500000000e+03
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:22:50
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:25:35
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:25:47
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:26:18
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:26:29
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 11:58:02
+
+Optimize a model with 9 rows, 6 columns and 18 nonzeros
+Variable types: 3 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+04]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+04]
+Presolve removed 9 rows and 6 columns
+Presolve time: 0.06s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.10 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 5 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.000000000000e+00, best bound 5.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 12:43:21
+
+Optimize a model with 2 rows, 3 columns and 2 nonzeros
+Model has 1 general constraint
+Variable types: 3 continuous, 0 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [4e+00, 5e+00]
+Presolve removed 2 rows and 3 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 5 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.000000000000e+00, best bound 5.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 12:50:51
+
+Optimize a model with 9 rows, 6 columns and 18 nonzeros
+Variable types: 3 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+04]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+04]
+Presolve removed 9 rows and 6 columns
+Presolve time: 0.05s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: -3 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.000000000000e+00, best bound -3.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 12:52:56
+
+Optimize a model with 2 rows, 3 columns and 2 nonzeros
+Model has 1 general constraint
+Variable types: 3 continuous, 0 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [4e+00, 5e+00]
+Presolve removed 2 rows and 3 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 3 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.000000000000e+00, best bound 3.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:00:48
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:01:05
+
+Optimize a model with 2 rows, 2 columns and 2 nonzeros
+Model has 1 general constraint
+Variable types: 2 continuous, 0 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+00]
+  Bounds range     [1e+01, 1e+01]
+  RHS range        [3e+00, 5e+00]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:06:56
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:12:05
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:12:08
+
+Optimize a model with 2 rows, 2 columns and 2 nonzeros
+Model has 1 general constraint
+Variable types: 2 continuous, 0 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+00]
+  Bounds range     [1e+01, 1e+01]
+  RHS range        [3e+00, 5e+00]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:12:13
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:12:19
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:12:42
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:12:48
+
+Optimize a model with 2 rows, 2 columns and 2 nonzeros
+Model has 1 general constraint
+Variable types: 2 continuous, 0 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+00]
+  Bounds range     [1e+01, 1e+01]
+  RHS range        [3e+00, 5e+00]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:12:51
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:12:55
+
+Optimize a model with 2 rows, 2 columns and 2 nonzeros
+Model has 1 general constraint
+Variable types: 2 continuous, 0 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+00]
+  Bounds range     [1e+01, 1e+01]
+  RHS range        [3e+00, 5e+00]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:20:56
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:23:52
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:23:58
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:26:39
+
+
+Gurobi 8.1.0 (win64, Python) logging started 01/28/21 13:31:26
+
+Optimize a model with 20 rows, 100 columns and 200 nonzeros
+Variable types: 0 continuous, 100 integer (100 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+---------------------------------------------------------------------------
+Multi-objectives: starting optimization with 2 objectives ... 
+---------------------------------------------------------------------------
+
+Multi-objectives: applying initial presolve ...
+---------------------------------------------------------------------------
+
+Presolve time: 0.54s
+Presolved: 20 rows and 100 columns
+---------------------------------------------------------------------------
+
+Multi-objectives: optimize objective 1 (obj2) ...
+---------------------------------------------------------------------------
+
+Found heuristic solution: objective -424.0000000
+Presolve time: 0.00s
+Presolved: 20 rows, 100 columns, 200 nonzeros
+Variable types: 0 continuous, 100 integer (100 binary)
+
+Root relaxation: objective -8.630000e+02, 18 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -863.0000000 -863.00000  0.00%     -    0s
+
+Explored 0 nodes (18 simplex iterations) in 0.77 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: -863 -424 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -8.630000000000e+02, best bound -8.630000000000e+02, gap 0.0000%
+---------------------------------------------------------------------------
+
+Multi-objectives: optimize objective 2 (obj1) ...
+---------------------------------------------------------------------------
+
+
+Loaded MIP start with objective 687
+
+Presolve time: 0.01s
+Presolved: 21 rows, 100 columns, 288 nonzeros
+Variable types: 0 continuous, 100 integer (100 binary)
+
+Root relaxation: objective 3.596170e+02, 30 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  359.61702    0   12  687.00000  359.61702  47.7%     -    0s
+H    0     0                     396.0000000  359.61702  9.19%     -    0s
+H    0     0                     373.0000000  359.61702  3.59%     -    0s
+     0     0     cutoff    0       373.00000  373.00000  0.00%     -    0s
+     0     0     cutoff    0       373.00000  373.00000  0.00%     -    0s
+
+Cutting planes:
+  Gomory: 1
+
+Explored 1 nodes (31 simplex iterations) in 0.83 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 373 396 687 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.730000000000e+02, best bound 3.730000000000e+02, gap 0.0000%
+
+---------------------------------------------------------------------------
+Multi-objectives: solved in 0.83 seconds, solution count 4
+
+Parameter ObjNumber unchanged
+   Value: 0  Min: 0  Max: 2000000000  Default: 0
+Changed value of parameter ObjNumber to 1
+   Prev: 0  Min: 0  Max: 2000000000  Default: 0
